@@ -15,7 +15,7 @@ public class Aposentadoria {
         }else if(contribuição> 35 && contribuição <= 60 ){
             System.out.println("Você pode aposentar");
         } else{
-            System.out.println("Vai trabalhar vagabundo(a) ou binarie");
+            System.out.println("Vai trabalhar");
         }
     }
     }
